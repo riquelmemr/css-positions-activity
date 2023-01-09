@@ -12,8 +12,6 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
-
-
 ul {
   list-style: none;
 }
@@ -41,13 +39,12 @@ li a:hover {
   color: #222222;
 }
 
-/* Positions page 1 */
+/* Exercise 1 */
 
 .navigation1 {
   margin: 20px;
   z-index: 1;
 }
-
 
 .absolute {
   position: absolute;
@@ -94,7 +91,7 @@ li a:hover {
   background-color: yellow;
 }
 
-/* Positions page 2 */
+/* Exercise 2 */
 
 .navigation2 {
   position: absolute;
@@ -133,11 +130,11 @@ li a:hover {
   right: 0;
 }
 
-/* Positions page 3 */
+/* Exercise 3 */
 
 .navigation3 {
   position: absolute;
-  left: calc(50% - 80px);
+  left: calc(50% - 50px);
   bottom: 10px;
 }
 
@@ -168,7 +165,7 @@ li a:hover {
   border: 2px solid red;
 }
 
-/* Positions page 4 */
+/* Exercise 4 */
 
 .square-fourpage {
   position: absolute;
