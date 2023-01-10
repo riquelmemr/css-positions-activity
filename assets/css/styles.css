@@ -101,8 +101,8 @@ li a:hover {
 }
 
 .squares {
-  width: 300px;
-  height: 300px;
+  width: 25%;
+  height: 25%;
   position: absolute;
   background-color: black;
 }
@@ -134,7 +134,7 @@ li a:hover {
 
 .container {
   position: static;
-  width: 700px;
+  width: 70%;
   padding: 20px;
 
   margin: auto;
@@ -155,14 +155,13 @@ li a:hover {
 .second {
   height: 200px;
   overflow-x: hidden;
-
-  border: 2px solid red;
+  border: 3px solid red;
 }
 
 /* Exercise 4 */
 
 .square-fourpage {
-  position: absolute;
+  position: fixed;
 
   width: 80px;
   height: 80px;
