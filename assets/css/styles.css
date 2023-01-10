@@ -174,24 +174,24 @@ li a:hover {
 }
 
 .two {
-  left: 90px;
+  left: 83px;
 }
 
 .three {
-  left: 180px;
+  left: 166px;
 }
 
 .four {
-  top: 90px;
+  top: 83px;
 }
 
 .five {
-  top: 90px;
-  left: 90px;
+  top: 83px;
+  left: 83px;
 }
 
 .six {
-  top: 180px;
+  top: 166px;
 }
 
 .seven {
@@ -201,25 +201,25 @@ li a:hover {
 
 .eight {
   right: 0;
-  bottom: 90px;
+  bottom: 83px;
 }
 
 .nine {
   right: 0;
-  bottom: 180px;
+  bottom: 166px;
 }
 
 .teen {
-  right: 90px;
+  right: 83px;
   bottom: 0;
 }
 
 .eleven {
-  right: 180px;
+  right: 166px;
   bottom: 0;
 }
 
 .twelve {
-  bottom: 90px;
-  right: 90px;
+  bottom: 83px;
+  right: 83px;
 }
