@@ -103,27 +103,23 @@ li a:hover {
 .squares {
   width: 300px;
   height: 300px;
-
+  position: absolute;
   background-color: black;
 }
 
 .left1 {
-  position: absolute;
   left: 0;
 }
 
 .left2 {
-  position: absolute;
   bottom: 0;
 }
 
 .right1 {
-  position: absolute;
   right: 0;
 }
 
 .right2 {
-  position: absolute;
   bottom: 0;
   right: 0;
 }
